@@ -1,0 +1,2 @@
+Prefix plugins/Spread/example
+Plugin Spread inputfile parameters.txt outputfile spread
